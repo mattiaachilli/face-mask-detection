@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tfe_od_app_name">Face mask detection</string>
+    <string name="tfe_od_camera_error">Questo dispositivo non supporta Camera2.</string>
+    <string name="time">Tempo</string>
+    <string name="persone_rilevate">Persone rilevate</string>
+    <string name="result">Risultato</string>
+</resources>
